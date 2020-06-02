@@ -12,6 +12,11 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Shablagoo";
+  src: url('../fonts/shablagoo-regular.ttf')
+}
+
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
