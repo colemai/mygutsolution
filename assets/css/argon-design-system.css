@@ -736,6 +736,11 @@ pre code {
 
 /*IAN SECTION*/
 
+.minor-heading-ian {
+  font-family: 'Shablagoo'; 
+  font-size: 3rem;
+}
+
 .fade-image-ian {
   opacity: 1;
   display: flex;
@@ -766,7 +771,7 @@ pre code {
 
 .text-team {
   color: white;
-  font-size: 3.1rem;
+  font-size: 1.1rem;
   font-weight: 200;
   padding: 16px 32px;
 }
