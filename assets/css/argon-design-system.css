@@ -759,10 +759,11 @@ pre code {
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
+  width: 90%;
 }
 
 .container-fade-ian:hover .fade-image-ian {
-  opacity: 0.3;
+  opacity: 0.1;
 }
 
 .container-fade-ian:hover .middle {
@@ -770,10 +771,10 @@ pre code {
 }
 
 .text-team {
-  color: white;
-  font-size: 1.1rem;
-  font-weight: 200;
-  padding: 16px 32px;
+  color: #8965e0;
+  font-size: 1.5rem;
+  font-weight: 500;
+  padding: 1rem;
 }
 
 
